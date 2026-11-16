@@ -1,4 +1,6 @@
+# Ignore dependencies in all folders, including Learning/propertyflow-ai/node_modules/.
 node_modules/
+# Ignore local environment files in all folders, including Learning/propertyflow-ai/.env.
 .env
 .env.*
 !.env.example
