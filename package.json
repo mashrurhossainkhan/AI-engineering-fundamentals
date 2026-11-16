@@ -8,6 +8,6 @@
     "node": ">=22.12.0"
   },
   "dependencies": {
-    "openai": "latest"
+    "openai": "^7.57.0"
   }
 }
